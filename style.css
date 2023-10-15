@@ -16,7 +16,7 @@ body{
    display: grid;
    place-items: center;
    text-align: center;
-   background: url(/ToDoList.jpg) no-repeat top center/cover ;
+   background: url(/image.jpg) no-repeat top center/cover ;
 }
 
 #add-task-container{
